@@ -1,5 +1,5 @@
 
-public class Prueba1 {
+public class Prueba2 {
 	public int index;
 	public int numero;
 	public String nombre;
